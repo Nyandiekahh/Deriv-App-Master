@@ -1,4 +1,5 @@
 {
+    "outputDirectory": "packages/core/dist",
     "buildCommand": "npm run build:all",
     "installCommand": "npm install",
     "routes": [
